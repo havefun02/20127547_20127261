@@ -1,1 +1,2 @@
 deploy with docker
+init
