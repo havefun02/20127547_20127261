@@ -1,2 +1,2 @@
 deploy with docker
-init testing
+init testing ok
