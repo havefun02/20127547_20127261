@@ -1,1 +1,1 @@
-done!
+init connect to jenkins
