@@ -16,7 +16,7 @@
 
 
 # CMD ["npm","start"]
-FROM node:16
+FROM node:7-onbuild
 
 # set maintainer
 LABEL maintainer "crudsinfotechng@gmail.com"
