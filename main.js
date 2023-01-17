@@ -12,5 +12,5 @@ let t=1+1
 console.log(t)
 
 // listen on localhost:8000
-server.listen(3000);
+server.listen(8000);
 console.log("Server listening on port 8000 :  http://127.0.0.1:8000/");
